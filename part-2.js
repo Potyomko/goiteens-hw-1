@@ -76,3 +76,10 @@ console.log(dC);
 
 const v = heightC*dC;
 console.log(v);
+
+// Пунк 8
+
+let n = 3;
+let m = 4;
+const k = (n**2)+(m**2);
+console.log(k);
